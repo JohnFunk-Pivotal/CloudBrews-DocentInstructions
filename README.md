@@ -22,6 +22,7 @@ Each station will be setup for one specific exercise.  The Laptop will be logged
 ###someone logs out of the CF CLI
   ```
   cf login -a api.run.pivotal.io -u demoX@johnfunkcom -o Channel -s Denver-CloudBrews
+    where X is the number of the station (e.g. demo1@johnfunk.com, demo2@johnfunk.com....)
   ```
   
   
