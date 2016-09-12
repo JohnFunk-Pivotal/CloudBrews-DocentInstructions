@@ -14,7 +14,7 @@ Each station will be setup for one specific exercise.  The Laptop will be logged
   
 ##Failures we expect to encounter
 ###someone closing the CGE Session
-  If someone closes the CGE session, you may have to restart the cli with the script loaded into the home directory of the environment
+  If someone closes the CGE session, you may have to re-install the cli with the script loaded into the home directory of the environment.
   ```
   installcfcli.sh
   ```
