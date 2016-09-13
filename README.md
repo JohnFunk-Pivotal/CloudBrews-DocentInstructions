@@ -4,10 +4,10 @@
 For the event we will be using a combination of Macs and ChromeBooks but in either case we will be accessing the Google Compute Engine to compile and push apps.  If you aren't familar with Google Compute Engine visit https://cloud.google.com/compute/docs/
 
 ##Station Setup
-Each station will be setup for one specific exercise.  The Laptop will be logged in to corresponding accounts on
-  *Google Compute Engine
-  *Github
-  *Pivotal Web Services
+Each station will be setup for one specific exercise.  The Laptop will be logged in to corresponding accounts on  
+  * Google Compute Engine
+  * Github
+  * Pivotal Web Services
   
   Additionally the CF CLI will be installed on each instance of the Google Compute Engine.
   
@@ -15,7 +15,10 @@ Each station will be setup for one specific exercise.  The Laptop will be logged
 ##Failures we expect to encounter
 
 ###someone closes the browser windows and disconneccts from GCE
-if someone closes the brower window go back to: https://console.cloud.google.com
+  if someone closes the brower window  
+  * go back to: https://console.cloud.google.com in the browser  
+  * click the hamburger menu  
+  * click Compute Engine  
 
 ###someone closing the CGE Session
   If someone closes the CGE session, you may have to re-install the cli with the script loaded into the home directory of the environment.
