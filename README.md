@@ -18,6 +18,10 @@ Each station will be setup for one specific exercise.  The Laptop will be logged
   ```
   installcfcli.sh
   ```
+  to install the script in your environment you can download it with the following command
+   ```
+   curl xxx -o installcfcli.sh
+    ```
 
 ###someone logs out of the CF CLI
   ```
