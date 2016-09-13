@@ -19,6 +19,7 @@ Each station will be setup for one specific exercise.  The Laptop will be logged
   * go back to: https://console.cloud.google.com in the browser  
   * click the hamburger menu  
   * click Compute Engine  
+  * open the cloud shell with the >_ icon in the upper right
 
 ###someone closing the CGE Session
   If someone closes the CGE session, you may have to re-install the cli with the script loaded into the home directory of the environment.
