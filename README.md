@@ -16,12 +16,13 @@ Each station will be setup for one specific exercise.  The Laptop will be logged
 ###someone closing the CGE Session
   If someone closes the CGE session, you may have to re-install the cli with the script loaded into the home directory of the environment.
   ```
-  installcfcli.sh
-  ```
-  to install the script in your environment you can download it with the following command
-   ```
-   curl xxx -o installcfcli.sh
-    ```
+  installcfcli.sh  
+  ``` 
+  
+to install the script in your environment you can download it with the following command:
+```
+curl https://raw.githubusercontent.com/JohnFunk-Pivotal/CloudBrews-DocentInstructions/master/installcfcli.sh -o installcfcli.sh
+```
 
 ###someone logs out of the CF CLI
   ```
