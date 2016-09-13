@@ -13,6 +13,10 @@ Each station will be setup for one specific exercise.  The Laptop will be logged
   
   
 ##Failures we expect to encounter
+
+###someone closes the browser windows and disconneccts from GCE
+if someone closes the brower window go back to: https://console.cloud.google.com
+
 ###someone closing the CGE Session
   If someone closes the CGE session, you may have to re-install the cli with the script loaded into the home directory of the environment.
   ```
