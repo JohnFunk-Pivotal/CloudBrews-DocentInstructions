@@ -39,3 +39,8 @@ curl https://raw.githubusercontent.com/JohnFunk-Pivotal/CloudBrews-DocentInstruc
   ```
   
   
+
+## Other tips and tricks
+### Station 3 - Sample App
+This exercise might be a bit much for someone to do by just following the screen shots.  If it helps we can also use the video at:
+https://s3.amazonaws.com/JohnFunkFiles/DemoRecordings/PCF-ERS-Demo-long-Draft1.mp4
