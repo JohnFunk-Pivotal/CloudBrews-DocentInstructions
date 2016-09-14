@@ -44,3 +44,16 @@ curl https://raw.githubusercontent.com/JohnFunk-Pivotal/CloudBrews-DocentInstruc
 ### Station 3 - Sample App
 This exercise might be a bit much for someone to do by just following the screen shots.  If it helps we can also use the video at:
 https://s3.amazonaws.com/JohnFunkFiles/DemoRecordings/PCF-ERS-Demo-long-Draft1.mp4
+
+## Installing things into a VM on CGE
+###Install Java 1.8 into a VM on GCE
+https://www.digitalocean.com/community/tutorials/how-to-manually-install-oracle-java-on-a-debian-or-ubuntu-vps
+
+###Install GIT into a VM on GCE
+https://git-scm.com/download/linux
+
+###Install Maven into a VM on GCE
+curl http://apache.mirrors.ionfish.org/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.tar.gz -o apache-maven-3.3.9-bin.tar.gz
+tar xzvf apache-maven-3.3.9-bin.tar.gz
+add the following to your .bashrc
+export PATH=$PATH:/home/funkjohn/apache-maven-3.3.9/bin
